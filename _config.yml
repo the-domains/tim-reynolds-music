@@ -1,0 +1,28 @@
+name: Tim Reynolds Music
+favicon: null
+layout_spectrum: 0.8009440416935831
+typography_spectrum: 0.8613873329013586
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.7917831933591515
+  lightness: 0.004492368316277862
+  saturation: 0.10194172477349639
+  rhythmicContrast: 0.7758965936955065
+purpose: []
